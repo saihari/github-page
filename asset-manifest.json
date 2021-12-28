@@ -1,38 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.2234da1c.chunk.css",
-    "main.js": "/static/js/main.7676b62f.chunk.js",
-    "main.js.map": "/static/js/main.7676b62f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.dc5ff711.chunk.css": "/static/css/2.dc5ff711.chunk.css",
-    "static/js/2.082150d5.chunk.js": "/static/js/2.082150d5.chunk.js",
-    "static/js/2.082150d5.chunk.js.map": "/static/js/2.082150d5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3a7173b91c950b82241eee659c0a0779.js": "/precache-manifest.3a7173b91c950b82241eee659c0a0779.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.dc5ff711.chunk.css.map": "/static/css/2.dc5ff711.chunk.css.map",
-    "static/css/main.2234da1c.chunk.css.map": "/static/css/main.2234da1c.chunk.css.map",
-    "static/media/Aws.png": "/static/media/Aws.27e8e879.png",
-    "static/media/Docker.png": "/static/media/Docker.4c5ed894.png",
-    "static/media/FastAi.png": "/static/media/FastAi.032507ed.png",
-    "static/media/Gear.png": "/static/media/Gear.acbadef0.png",
-    "static/media/JavaScript.png": "/static/media/JavaScript.5a84d5d7.png",
-    "static/media/MSSqlServer.png": "/static/media/MSSqlServer.6ed7c2eb.png",
-    "static/media/Matplotlib.png": "/static/media/Matplotlib.37bce99c.png",
-    "static/media/MongoDB.png": "/static/media/MongoDB.890d6798.png",
-    "static/media/Numpy.png": "/static/media/Numpy.ad9dfa1d.png",
-    "static/media/Pipeline.PNG": "/static/media/Pipeline.c6aa5733.PNG",
-    "static/media/Python.png": "/static/media/Python.76fc9aa2.png",
-    "static/media/Pytorch.png": "/static/media/Pytorch.f0068063.png",
-    "static/media/React.png": "/static/media/React.580ffd26.png",
-    "static/media/Rlogo.png": "/static/media/Rlogo.4f8a7fb3.png",
-    "static/media/SAS.jpg": "/static/media/SAS.3954db7b.jpg",
-    "static/media/SQL.jfif": "/static/media/SQL.73ea098f.jfif",
-    "static/media/ScikitLearn.png": "/static/media/ScikitLearn.964a9ceb.png",
-    "static/media/Selenium.png": "/static/media/Selenium.a3d75fee.png",
-    "static/media/Tensorflow.jpg": "/static/media/Tensorflow.7a473fae.jpg",
-    "static/media/icon.png": "/static/media/icon.4a47eff6.png",
-    "static/media/notifications.css": "/static/media/notification.c0d3c94c.eot"
-  }
+    "main.css": "/github-page.git/static/css/main.ca715345.css",
+    "main.js": "/github-page.git/static/js/main.0a1c533f.js",
+    "static/js/787.346528c1.chunk.js": "/github-page.git/static/js/787.346528c1.chunk.js",
+    "static/media/background.jpeg": "/github-page.git/static/media/background.f086ec72ccfe76e6529a.jpeg",
+    "static/media/PoliteType-Regular.ttf": "/github-page.git/static/media/PoliteType-Regular.bf52c88a7bdb99a624d1.ttf",
+    "static/media/me cropped.jpg": "/github-page.git/static/media/me cropped.f045ac73762b37269983.jpg",
+    "index.html": "/github-page.git/index.html",
+    "main.ca715345.css.map": "/github-page.git/static/css/main.ca715345.css.map",
+    "main.0a1c533f.js.map": "/github-page.git/static/js/main.0a1c533f.js.map",
+    "787.346528c1.chunk.js.map": "/github-page.git/static/js/787.346528c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca715345.css",
+    "static/js/main.0a1c533f.js"
+  ]
 }
